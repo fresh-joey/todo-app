@@ -32,7 +32,7 @@ const App = () => {
   return (
     <Container className="container">
       <Typography variant="h4" style={{ color: "#8be9fd" }}>
-        2Do or not 2Do?...
+        ToDo List
         <br />
         🧐👇
       </Typography>
