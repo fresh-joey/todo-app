@@ -34,7 +34,7 @@ const App = () => {
       <Typography variant="h4" style={{ color: "#8be9fd" }}>
         ToDo List
         <br />
-        🧐👇
+        &arrowdown;
       </Typography>
       <br />
       <div className="todos-container">
